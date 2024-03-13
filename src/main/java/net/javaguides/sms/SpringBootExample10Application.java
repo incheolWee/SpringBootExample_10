@@ -1,4 +1,4 @@
-package net.javaguides.sms.springbootexample_10;
+package net.javaguides.sms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
